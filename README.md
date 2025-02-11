@@ -90,10 +90,11 @@ Contributions are welcome! Please follow these steps:
 4. Open a **Pull Request**.
 
 
-## Contact
-For inquiries or contributions, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+## Screenshots
+![WhatsApp Image 2025-02-11 at 22 58 15_a7b3ddf3](https://github.com/user-attachments/assets/717130cb-2550-4974-b233-5fe4d92d9a6b)
+![WhatsApp Image 2025-02-11 at 22 58 19_692eb240](https://github.com/user-attachments/assets/18b89958-c0ac-4295-9a23-86cb573eee51)
+
+
 
 
 
