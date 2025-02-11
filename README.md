@@ -91,11 +91,11 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/516e4047-157c-4cd1-a837-ff9368d954bd)
+![image1](https://github.com/user-attachments/assets/aa08ab8d-2102-4623-b43a-761a49808b6a) &nbsp;
+![image2](https://github.com/user-attachments/assets/815005e1-3766-42fb-bcf0-908710d5910a)
 
 
 
-![WhatsApp Image 2025-02-11 at 22 58 19_692eb240](https://github.com/user-attachments/assets/18b89958-c0ac-4295-9a23-86cb573eee51)
 
 
 
