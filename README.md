@@ -91,7 +91,8 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Screenshots
-![WhatsApp Image 2025-02-11 at 22 58 15_a7b3ddf3](https://github.com/user-attachments/assets/717130cb-2550-4974-b233-5fe4d92d9a6b) 
+![image](https://github.com/user-attachments/assets/516e4047-157c-4cd1-a837-ff9368d954bd)
+
 
 
 ![WhatsApp Image 2025-02-11 at 22 58 19_692eb240](https://github.com/user-attachments/assets/18b89958-c0ac-4295-9a23-86cb573eee51)
